@@ -17,4 +17,7 @@ Yolo models are not good at small objects detection, as given classes were car a
 **Approach**  
 Used pretrained weights and customised model on given dataset by freezing initial layers.
 
+**Training metrices and Performance Validation**
+https://github.com/DivyaShaktii/person_car_detection/tree/main/yolo/train_stats
+
 
