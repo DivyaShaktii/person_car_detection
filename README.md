@@ -13,6 +13,7 @@ YOLOv3 (You Only Look Once, Version 3)  a real-time object detection algorithm t
 
 **Primary Analysis**
 Had a glance of images and found that images containes lot of challanging scenarios like crowding , occlusion , lighting conditions , different car models , peoples in fancy dresses and lot of variation in bonding box size.
+Tried to find costum anchor boxes but continued with standard box sizes. 
 
 
 
@@ -28,7 +29,6 @@ https://github.com/DivyaShaktii/person_car_detection/tree/main/yolo/train_stats
 **Conclusion**
 
 
+
 **Recommendations**
 More robust models like EfficientDet or faster RCNN can work better compromising with speed to get more accuracy in prediction depending on application.
-
-
